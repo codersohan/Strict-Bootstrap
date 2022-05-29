@@ -1,0 +1,327 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+
+}
+
+header{
+    overflow: hidden;
+    margin: 30px 5%;
+}
+
+.logo{
+     float: left;
+}
+
+.logo h3{
+
+}
+
+h1,h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.menu{
+    float: right;
+    margin-right: 40px;
+}
+
+.menu p{
+    float: right;
+    text-align: right;
+
+}
+
+p,ul,li,a{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.slider{
+    overflow: hidden;
+
+}
+
+.banner_one{
+    width: 80%;
+    margin: 30px 10%;
+    height: auto;
+
+}
+
+.banner_one img{
+    width: 100%;
+}
+
+.project{
+    width: 80%;
+    margin: 50px 10%;
+    overflow: hidden;
+}
+
+.project_title{
+    width: 40%;
+    height: 200px;
+    float: left;
+
+ 
+ 
+
+ }   
+
+.project_image{
+    width: 60%;
+    float: right;
+    
+}
+
+.project_value{
+    width: 80%;
+    height: 150px;
+    margin: 30px 10%;
+    
+
+}
+
+.project_date{
+    width: 40%;
+    height: 200px;
+    float: left;
+    margin: auto;
+
+}
+
+.project_challenge{
+    width: 50%;
+    height: 200px;
+    float:  left;
+    margin: auto;
+}
+
+.project_date h1{
+    
+}
+
+.project_challenge h1{
+    
+}
+
+.project_challenge p{
+    
+}
+
+.profile{
+     width: 80%;
+     margin: 30px 10%;
+     height: 250px;
+     overflow:hidden ;
+     display: flex;
+     justify-content: space-between;
+     
+
+}
+
+.profile_one{
+    width: 26%;
+    height: 250px;
+    background-color: whitesmoke;
+    float: left;
+    
+}
+
+.profile_two{
+    width: 26%;
+    height: 250px;
+    background-color: rgb(204, 67, 67);
+    float: left;
+}
+
+.profile_three{
+    width: 26%;
+    height: 250px;
+    background-color: rgb(199, 33, 135);
+    float: left;
+
+}
+
+
+.profile_one img{
+    width: 100%;
+}
+
+.profile_two img{
+    width: 100%;
+}
+
+.profile_three img{
+    width: 100%;
+}
+
+
+.role{
+    width: 80%;
+    height: 150px;
+    margin: 30px 10%;
+    overflow: hidden;
+}
+
+.role_part{
+    width: 30%;
+    height: 150px;
+    float: left;    
+}
+
+.role_part p{
+    padding-top: 30px;
+
+}
+
+.approach{
+    width: 45%;
+    height: 150px;
+    float: right;
+
+}
+
+.approach p{
+    padding-top: 35px;
+    padding-left: 8%;
+
+}
+
+.picture{
+    width: 80%;
+    overflow: hidden;
+    margin: 30px 5%;
+
+}
+
+.image_one{
+    width: 47%;
+    float: left;
+}
+
+.image_two{
+    width: 47%;
+    float: right;
+}
+
+.image_one img{
+    width: 100%;
+
+}
+
+.image_two img{
+    width: 100%;
+}
+
+.banner_two{
+    width: 80%;
+    margin: 30px 10%;
+    height: 600px;
+}
+
+.banner_two img{
+    width: 100%;
+}
+
+.works{
+    margin: 100px 0;
+    text-align: center;
+
+}
+
+button{
+    background-color: transparent;
+    border: 1px solid;
+    padding: 20px 10px;
+
+}
+
+button h3{
+    text-transform: capitalize;
+    font-weight: 200;
+
+}
+
+
+
+footer{
+    width: 80%;
+    height: 350px;
+    margin: 30px 10%;
+
+}
+
+.contact{
+    width: 30%;
+    float: left;
+    margin-left: 10%;
+}
+
+.contact h5{
+           margin-bottom: 15px;
+
+}
+
+.social_media{
+    width: 30%;
+    float: left;
+}
+
+.social_media ul{
+    list-style: none;
+    margin-left: 20%;
+
+}
+
+.social_media ul li{
+    text-decoration: none;
+    padding-bottom: 15px;
+}
+
+.social_media ul li a{
+    text-decoration: none;
+
+}
+
+.about{
+    width: 30%;
+    float: left;
+    list-style: none;
+    
+
+}
+
+.about ul{
+    list-style: none;
+
+}
+
+.about ul li{
+    margin-bottom: 15px;
+
+}
+
+.about ul li a{
+    text-decoration: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
